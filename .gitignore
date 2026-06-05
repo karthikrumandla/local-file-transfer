@@ -1,0 +1,4 @@
+node_modules/
+uploads/
+client/dist/
+client/node_modules/
